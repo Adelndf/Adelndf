@@ -8,7 +8,6 @@ All started with a simple console.log("Hello World")
 
 * 🌍  I'm based in Riyadh, SA
 * ✉️  You can contact me at [iadelndf@gmail.com](mailto:iadelndf@gmail.com)
-* 🧠  I'm learning Node.js
 
 <a href="https://www.twitter.com/iAdelDev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/iAdelDev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
