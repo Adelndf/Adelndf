@@ -1,10 +1,8 @@
-Hi 👋 My name is Adel
+Hi 👋 it's Adel
 =====================
 
 \- Frontend web developer
 -------------------------
-
-All started with a simple console.log("Hello World")
 
 * 🌍  I'm based in Riyadh, SA
 * ✉️  You can contact me at [iadelndf@gmail.com](mailto:iadelndf@gmail.com)
@@ -31,7 +29,3 @@ src="https://img.shields.io/twitter/follow/iAdelDev?logo=twitter&style=for-the-b
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Adelndf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/x.3dx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/iAdelDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
